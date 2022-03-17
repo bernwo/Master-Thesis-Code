@@ -1,0 +1,62 @@
+[
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   C:/Users/jen_7/Documents/MATLAB/QuTech/one-way-quantum-repeater/+One_way_quantum_repeaters/Mex_source/eL_1Loss/eL_1Loss.c -o build/win64/eL_1Loss.o",
+    "file": "C:/Users/jen_7/Documents/MATLAB/QuTech/one-way-quantum-repeater/+One_way_quantum_repeaters/Mex_source/eL_1Loss/eL_1Loss.c",
+    "output": "build/win64/eL_1Loss.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   eL_1Loss_gen_data.c -o build/win64/eL_1Loss_gen_data.o",
+    "file": "eL_1Loss_gen_data.c",
+    "output": "build/win64/eL_1Loss_gen_data.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   rt_nonfinite.c -o build/win64/rt_nonfinite.o",
+    "file": "rt_nonfinite.c",
+    "output": "build/win64/rt_nonfinite.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   eL_1Loss_gen_initialize.c -o build/win64/eL_1Loss_gen_initialize.o",
+    "file": "eL_1Loss_gen_initialize.c",
+    "output": "build/win64/eL_1Loss_gen_initialize.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   eL_1Loss_gen_terminate.c -o build/win64/eL_1Loss_gen_terminate.o",
+    "file": "eL_1Loss_gen_terminate.c",
+    "output": "build/win64/eL_1Loss_gen_terminate.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   eL_1Loss_gen.c -o build/win64/eL_1Loss_gen.o",
+    "file": "eL_1Loss_gen.c",
+    "output": "build/win64/eL_1Loss_gen.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_eL_1Loss_gen_api.c -o build/win64/_coder_eL_1Loss_gen_api.o",
+    "file": "interface/_coder_eL_1Loss_gen_api.c",
+    "output": "build/win64/_coder_eL_1Loss_gen_api.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_eL_1Loss_gen_mex.c -o build/win64/_coder_eL_1Loss_gen_mex.o",
+    "file": "interface/_coder_eL_1Loss_gen_mex.c",
+    "output": "build/win64/_coder_eL_1Loss_gen_mex.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   interface/_coder_eL_1Loss_gen_info.c -o build/win64/_coder_eL_1Loss_gen_info.o",
+    "file": "interface/_coder_eL_1Loss_gen_info.c",
+    "output": "build/win64/_coder_eL_1Loss_gen_info.o"
+  },
+  {
+    "directory": "C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen",
+    "command": "C:\\ProgramData\\MATLAB\\SupportPackages\\R2021a\\3P.instrset\\mingw_w64.instrset\\bin\\gcc -c -fexceptions -fno-omit-frame-pointer -m64 -DMATLAB_MEX_FILE  -DMATLAB_MEX_FILE -O2 -fwrapv -DNDEBUG -std=c99 -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\" -I \"C:\\Users\\jen_7\\Documents\\MATLAB\\QuTech\\one-way-quantum-repeater\\+One_way_quantum_repeaters\\Mex_source\\eL_1Loss\\codegen\\mex\\eL_1Loss_gen\\interface\" -I \"C:\\Program Files\\MATLAB\\R2021a\\extern\\include\" -I \".\" -DMODEL=eL_1Loss_gen_mex -D__USE_MINGW_ANSI_STDIO=1   \"C:/Program Files/MATLAB/R2021a/extern/version/c_mexapi_version.c\" -o build/win64/c_mexapi_version.o",
+    "file": "C:/Program Files/MATLAB/R2021a/extern/version/c_mexapi_version.c",
+    "output": "build/win64/c_mexapi_version.o"
+  }
+]
