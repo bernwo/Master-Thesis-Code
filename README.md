@@ -4,7 +4,7 @@ Matlab code used to generate results used in my **Master Thesis** that I wrote i
 * *Tested on MATLAB R2021b on a Windows 11 64bit machine.*
 
 ## Which file to run?
-To reproduce the results from my thesis, simply clone the repository run:
+To reproduce the results from my thesis, simply clone the repository and then run:
 
 * `main_FT.m` for parallel scheduling of the hybrid repeater architecture.
 * `main_NFT.m` for sequential scheduling of the hybrid repeater architecture.
